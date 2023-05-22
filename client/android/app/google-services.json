@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "771732170560",
+    "project_id": "tiklogistics-637e9",
+    "storage_bucket": "tiklogistics-637e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771732170560:android:134415933927e623aefca5",
+        "android_client_info": {
+          "package_name": "com.root.tiklogistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771732170560-fj4s75ak9amqpelvjan0l6lhpanilf16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.root.tiklogistics",
+            "certificate_hash": "b49d4be1c9b5e4466067864407fd5c03dfa54782"
+          }
+        },
+        {
+          "client_id": "771732170560-3spgn0d4kb5jcl7gkudlmp291eooidj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDijpcFM5l6d8TkJc9ttPAHWLlOJBlxVYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771732170560-3spgn0d4kb5jcl7gkudlmp291eooidj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771732170560-om3bef4l6mbvk5lmneo2ukmdiskst4oh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tiklogistics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
